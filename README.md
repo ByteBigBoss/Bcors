@@ -4,7 +4,7 @@
 
 You can download the latest version of Bcors for Java from the link below:
 
-[Download Bcors Java Library](https://github.com/ByteBigBoss/Bcors/releases/download/Java/Bcors.jar) or view Bcors Library Releases [here](https://github.com/ByteBigBoss/Bcors/releases/tag/Bcors).
+[Download Bcors.jar file](https://github.com/ByteBigBoss/Bcors/releases/download/Java/Bcors.jar) or view Bcors Library Releases [here](https://github.com/ByteBigBoss/Bcors/releases/tag/Bcors).
 
 
 ### Usage
