@@ -16,7 +16,7 @@ Bcors is a Java library designed to simplify Cross-Origin Resource Sharing (CORS
 
 Download the latest version of the Bcors library from the link below:
 
-- [Download Bcors-1.1.jar](https://github.com/ByteBigBoss/Bcors/releases/download/Bcors-1.1/Bcors.jar)
+- [Download Bcors-1.1.jar](https://github.com/ByteBigBoss/Bcors/releases/download/Bcors-1.1/Bcors-1.1.jar)
 - View all releases [here](https://github.com/ByteBigBoss/Bcors/releases).
 
 ### Adding to Your Project
